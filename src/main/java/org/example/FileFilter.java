@@ -74,7 +74,6 @@ public class FileFilter {
                             strings.add(line);
                         }
                     } catch (NumberFormatException e) {
-                        // Игнорируем некорректные строки
                         System.out.println("следующая строка была проигнорирована: "+line+": "+e.getMessage());
                     }
                 }
