@@ -14,6 +14,7 @@ Cистема сборки Apache Maven 3.9.8 (36645f6c9b5079805ea5009217e36f2cf
 
 mvn clean package
 
+сборка проекта находится в target называется FileFilter-1.0-SNAPSHOT.jar
 ## Инструкция по запуску:
 
 Используйте следующую команду для запуска программы: java -jar {путь к билду}\FileFilter-1.0-SNAPSHOT.jar [опции] <файлы>
